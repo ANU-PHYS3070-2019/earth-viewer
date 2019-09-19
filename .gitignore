@@ -2,3 +2,5 @@
 
 *-checkpoint.ipynb
 .ipynb_checkpoints/MarsViewer-checkpoint.ipynb
+*.pyc
+__pycache__
