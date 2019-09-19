@@ -1,0 +1,13 @@
+## The image name is the docker hub location / tag
+imagename:  lmoresi/docker-cloud-python:2019.09.17ii
+
+## The description is a string that may be auto-read and displayed to a user who is browsing for images
+description:  Mars Viewer
+
+landing_place: lab/tree/MarsViewer.ipynb
+
+## This is entirely FYI - the uw-cloud url
+launch_url_dev:  |
+  http://developer.cloud.underworldcode.org/user-redirect/lab?gh_repo=ANU-PHYS3070-2019/earth-viewer&gh_path=/
+launch_url:  |
+  http://user.cloud.underworldcode.org/user-redirect/lab?gh_repo=ANU-PHYS3070-2019/earth-viewer&gh_path=/
